@@ -1,3 +1,15 @@
+#headerCard {
+  box-shadow: 9px 7px 40px -6px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  width: 100%;
+  padding: 25px;
+  /* height: 400px; */
+  /* min-height: 300px; */
+  margin: 20px auto;
+  border-radius: 5px;
+  position: relative
+}
+
 .App {
   text-align: center;
 }
